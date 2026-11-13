@@ -10,6 +10,8 @@
 **3.** Локализация ( русский, английский, итальянский).
 
 **4.** Торговец, которые продает вам предметы.
+# Ссылки
+ Я веду телеграмм канал, где я выкладываю наработки игры и свое мнение об проекте. Можете зайти туда, если хотите спойлеры будущего обновления: https://t.me/GunRounsRemaster
 
 ## En: Foreword
 This project is a fan-made version of "Gun Rounds." The original game was created by **Blabberf**; should a request be made to remove this project, I will comply.
@@ -23,3 +25,5 @@ Hello! This project is a reimagining of the original game ["Gun Rounds"](https:/
 **3.** Localization (Russian, English, and Italian).
 
 **4.** A merchant who sells you items.
+# Links
+ I run a Telegram channel where I post work-in-progress content for the game and share my thoughts on the project. Feel free to check it out if you’d like to see spoilers for the upcoming update: https://t.me/GunRounsRemaster
