@@ -1,4 +1,4 @@
-<img width="262" height="320" alt="546121895ba04f849aa65e615f38d4e3" src="https://github.com/user-attachments/assets/969c5cdf-8832-4638-8ec6-563e26692693" />
+
 ## Ru:Предисловие
 Этот проект явялется фанатской версии "Gun Rounds". Оргинальный автор этой игры является **Blabberf**, если попросят удалить этот проект, то оно будет сделано.
 # Gun Rounds Remaster
